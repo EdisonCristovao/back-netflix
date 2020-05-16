@@ -1,0 +1,14 @@
+{
+  "name": "back-netflix",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/EdisonCristovao/back-netflix.git",
+  "author": "Edison <edison.cr.jr@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
