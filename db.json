@@ -1,0 +1,72 @@
+{
+  "users": [
+    { "id": 1, "name": "Tony Stark", "avatar": "" },
+    {
+      "id": 2,
+      "name": "Romanov",
+      "avatar": ""
+    }
+  ],
+  "types": [
+    { "id": 1, "name": "Serie" },
+    { "id": 2, "name": "Film" }
+  ],
+  "genres": [{ "id": 1, "name": "Comedy" }],
+  "movies": [
+    {
+      "id": 1,
+      "name": "The Hollow",
+      "avatarMovie": "https://occ-0-158-1123.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABYCHheyfzsE6JDkg4oQy4CEuO2eWLq2Gz7IZVfIL3XEHxdk6Kvo5YpHSi1Gedn5xyjOfWoSpBIdNHO2gULjZ35RHS9Tr8hkcMn7JLTE61m4n7RyBBpkG2RXgg3sKgy6dfdBXLcWMk_jOnbONeZcZrVjj-7RlOg.jpg",
+      "like": null,
+      "typeId": 1
+    },
+    {
+      "id": 2,
+      "name": "Extraction",
+      "avatarMovie": "https://occ-0-158-1123.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdoGd8bIHR9x2BuKmyDvD2hNzA1bip-KB7l2dRoehLEBY52f5NfoF-2Vjr0kXoQ7ZSanV72pcgN3veOwfWBPNR0luWqcWG7BbLJH64Invbp9HKwokQ1UJKPX0TkrP2ATPa_R8TO-SCXroi1lnFOTM-f4TuxpyEVoSYXGYRixxbu5Rv9EK5tMk6w.jpg",
+      "like": null
+    },
+    {
+      "id": 3,
+      "name": "Never have I ever",
+      "avatarMovie": "https://occ-0-158-1123.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABTPoeWYgPKXn1H7x7MMWCn8fLkakj7A1yaCPTNb3raiqliQgGImHb1F0ZjqojKLLZz84gb-10feQSBJodqU6OTeWMeAuNaDwjnxXbHBO2nGCTjtwSg_GvCYndS8NP8gcGYRhqin2bFK4tdkB8_u4vbLRj3xOeHqrtiQ1KsyO_YiiFQdrYPrQd_c.jpg",
+      "like": null
+    },
+    {
+      "id": 4,
+      "name": "The half of it",
+      "avatarMovie": "https://occ-0-158-1123.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABWlsju-63_qprBCgcrXUZDJkU6i0T1WlaPesUkv5X9F7UPnvDiMGXVgDZgQSXVj13FsEwf1V25LhMTXFw0yHY5sl32-sblK8i5E7JwYBFzrWFjUjbdWAVpqiiemT.jpg",
+      "like": null
+    },
+    {
+      "id": 5,
+      "name": "All day and a night",
+      "avatarMovie": "https://occ-0-158-1123.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABfVqaVrVBGdKJFGr2q_Ip7yQlP13xCI4XkLlBEOjDpGwyEM7cXm3sc6HO6hDseGT8XzdNPB_uKbMwNZeLZEd1fpOcw8g2XdpuBKdr9Pyb6rMlPuyQUBoF9pFXou2.jpg",
+      "like": false
+    },
+    {
+      "id": 6,
+      "name": "Vacation",
+      "avatarMovie": "https://occ-0-158-1123.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABVN9JFsqOiYMDmAoP4UNsyw_bDNaqDtaugWrHMnaHusCfFEVLUlc_3OvgzuuYz8EjN4LTlxq0FI9olA5y0jpBfnpCIXoqg21FDm8e0261uoNSUhUUVXkhbdNgzJu6hEIgxp7HCdVl1YiOqfJVtIsT42AM3c.webp",
+      "like": null
+    },
+    {
+      "id": 7,
+      "name": "Big Show",
+      "avatarMovie": "https://occ-0-158-1123.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABWjoQfZTgGAGhS-QWoKhyYImZ-1tjoHtIFGi4xcOVqrlJgKepObA8Q4J9kuXANMz6-girLbCSwGlaJMfDqT6XZveu3u8vu6zoudld8nzM08IXHRsVcB57MCliebF.jpg",
+      "like": null
+    },
+    {
+      "id": 8,
+      "name": "One Day At a time",
+      "avatarMovie": "https://occ-0-158-1123.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXQn1eKJDPNWomNGj2eJmTdyINxozjQLDLyLVaIKtM7qdxReqX4w7--nKR-tEJ_aKux4WcWx9MNvsY8Lr3k_YkrHT3HftpMORQrS2laTgTVI__eypsJOu_IvMwKB.jpg",
+      "like": true
+    },
+    {
+      "id": 9,
+      "name": "The WIllougbys",
+      "avatarMovie": "https://occ-0-158-1123.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABczzDovZWcR6Mscbx9qrY9vxdcmXDDWCCmlxt0_4kZFy8prrbxNwxhM_o7_8guNOSGqcqqA3qrhphV5Xb7Ge0Wf3xCcCZhJpZQM5GjugNsjVnnG0_DuM8MyKrjkX.jpg",
+      "like": null
+    }
+  ]
+}
